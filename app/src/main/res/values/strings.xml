@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">YoutubeSubscriberCountLiveBackground</string>
+    <string name="wallpaper_counter">WallpaperCounter</string>
 </resources>
